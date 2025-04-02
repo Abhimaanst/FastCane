@@ -1,0 +1,6 @@
+name: FastGrowPlugin
+version: 1.0
+main: me.abhimaanst.fastcane.FastGrowPlugin
+api-version: 1.16
+description: Makes sugar cane grow faster based on a configurable interval
+author: Abhimaanst

@@ -15,8 +15,8 @@ Tired of waiting for sugar cane to grow? FastCane revolutionizes your farming ex
 📊 Lightweight & efficient code
 
 ⚙️ Configuration
-[code=YAML]# FastCane Configuration
+# FastCane Configuration
 growth-interval: 0.5    # Cane growth timer in seconds
 max-height: 3           # Maximum height of the sugarcane counting the base (1-255)
 check-radius: 64        # Blocks to check from a player in a cuboid
-growth-amount: 1        # Blocks to grow each interval[/code]
+growth-amount: 1        # Blocks to grow each interval

@@ -56,7 +56,6 @@ public class FastGrowPlugin extends JavaPlugin {
                         int minZ = loc.getBlockZ() - checkRadius;
                         int maxZ = loc.getBlockZ() + checkRadius;
                         
-                        // Check blocks in cuboid
                         for (int x = minX; x <= maxX; x++) {
                             for (int z = minZ; z <= maxZ; z++) {
                                

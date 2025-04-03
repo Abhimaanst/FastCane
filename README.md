@@ -1,4 +1,4 @@
-#🎋 FastCane - The factions sugar cane plugin
+🎋 #FastCane - The factions sugar cane plugin
 Tired of waiting for sugar cane to grow? FastCane revolutionizes your farming experience with customizable growth rates while preventing server lag!
 
 🔥 Features
